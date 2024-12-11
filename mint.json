@@ -48,11 +48,11 @@
       ]
     },
     {
-      "group": "API Documentation",
-      "pages": ["api-reference/introduction"]
+      "group": "API Reference",
+      "pages": ["api-reference/introduction", "api-reference/api-keys"]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Screenings",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
