@@ -37,26 +37,15 @@
       "pages": ["introduction", "quickstart", "development"]
     },
     {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
-    },
-    {
       "group": "API Reference",
       "pages": ["api-reference/introduction", "api-reference/api-keys"]
     },
     {
       "group": "Screenings",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "api-reference/endpoint/create-screening",
+        "api-reference/endpoint/delete-screening",
+        "api-reference/endpoint/retrieve-screening"
       ]
     }
   ],
