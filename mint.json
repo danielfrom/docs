@@ -35,20 +35,8 @@
   "navigation": [
     {
       "group": "Getting Started",
-      "pages": ["introduction", "quickstart", "development"]
+      "pages": ["introduction"]
     },
-    {
-      "group": "API Reference",
-      "pages": ["api-reference/introduction", "api-reference/api-keys"]
-    },
-    {
-      "group": "Screenings",
-      "pages": [
-        "api-reference/endpoint/create-screening",
-        "api-reference/endpoint/delete-screening",
-        "api-reference/endpoint/retrieve-screening"
-      ]
-    }
   ],
   "footerSocials": {
     "linkedin": "https://www.linkedin.com/company/m%C3%A5lbar/",
