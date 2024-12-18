@@ -28,10 +28,20 @@
   "tabs": [
     {
       "name": "API Reference",
-      "url": "api-reference",
+      "url": "api",
       "openapi": "https://tool.maalbar.dk/openapi.json"
     }
   ],
+  "api": {
+    "maintainOrder": true,
+    "baseUrl": "https://api.maalbar.dk",
+    "paramFields": {
+      "expanded": "topLevel"
+    },
+    "playground": {
+      "mode": "show"
+    }
+  },
   "navigation": [
     {
       "group": "Getting Started",
