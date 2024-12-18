@@ -1,19 +1,19 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Målbar Screening Tool",
-  "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
-  },
+  "logo": "/logo/light.svg",
   "favicon": "/images/favicon.png",
   "colors": {
     "primary": "#6e7f4e",
     "light": "#a7beb0",
-    "dark": "#f5a11e",
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
     }
+  },
+  "modeToggle": {
+    "default": "light",
+    "isHidden": true
   },
   "topbarLinks": [
     {
